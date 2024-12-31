@@ -12,37 +12,37 @@ const CP = () => {
     {
       content: "I have consistently honed my problem-solving skills, solving 300+ questions on LeetCode.",
       label: "LeetCode Profile",
-      imgSrc: "../../../public/images/person-7.png"
+      imgSrc: "/images/person-7.png"
     },
     {
       content: "Achieving a 3-star rating on CodeChef reflects my ability to excel in competitive programming.",
       label: "Competitive Programming",
-      imgSrc: "../../../public/images/person-1.png"
+      imgSrc: "/images/person-1.png"
     },
     {
       content: "Possess strong knowledge of GitHub for version control and collaborative development.",
       label: "GitHub Expertise",
-      imgSrc: "../../../public/images/person-6.png"
+      imgSrc: "/images/person-6.png"
     },
     {
       content: "I am currently an apprentice on Codeforces, steadily improving my skills in algorithmic challenges.",
       label: "Codeforces Progress",
-      imgSrc: "../../../public/images/person-2.png"
+      imgSrc: "/images/person-2.png"
     },
     {
       content: "Contributed to open-source projects as part of GirlScript Summer of Code (GSSoC).",
       label: "GSSoC Contribution",
-      imgSrc: "../../../public/images/person-3.jpg"
+      imgSrc: "/images/person-3.jpg"
     },
     {
       content: "Actively participated in Hacktoberfest, contributing to open-source repositories worldwide.",
       label: "Hacktoberfest",
-      imgSrc: "../../../public/images/person-5.png"
+      imgSrc: "/images/person-5.png"
     },
     {
       content: "Completed a comprehensive Python course on Udemy, strengthening my programming foundation.",
       label: "Python Course",
-      imgSrc: "../../../public/images/person-4.jpg"
+      imgSrc: "/images/person-4.jpg"
     },
   ];    
       useGSAP(()=>{
