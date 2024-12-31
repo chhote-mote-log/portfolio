@@ -9,7 +9,7 @@ const Header = () => {
   
           <h1>
             <a href="/" className="logo">
-             <img src="/images/logo.svg" width={70} height={70} alt="Ayush Pandey" />
+             <img src="../../../public/images/logo.svg" width={70} height={70} alt="Ayush Pandey" />
             </a>
           </h1>
   

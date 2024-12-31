@@ -3,72 +3,72 @@ import SkillCard from "../SkillCard";
 const Skill = () => {
     const skillItem = [
         {
-          imgSrc: '/images/figma.svg',
+          imgSrc: '../../../public/images/figma.svg',
           label: 'Figma',
           desc: 'Design tool'
         },
         {
-          imgSrc: '/images/css3.svg',
+          imgSrc: '../../../public/images/css3.svg',
           label: 'CSS',
           desc: 'User Interface'
         },
         {
-          imgSrc: '/images/javascript.svg',
+          imgSrc: '../../../public/images/javascript.svg',
           label: 'JavaScript',
           desc: 'Interaction'
         },
         {
-          imgSrc: '/images/nodejs.svg',
+          imgSrc: '../../../public/images/nodejs.svg',
           label: 'NodeJS',
           desc: 'Web Server'
         },
         {
-          imgSrc: '/images/expressjs.svg',
+          imgSrc: '../../../public/images/expressjs.svg',
           label: 'ExpressJS',
           desc: 'Node Framework'
         },
         {
-          imgSrc: '/images/mongodb.svg',
+          imgSrc: '../../../public/images/mongodb.svg',
           label: 'MongoDB',
           desc: 'Database'
         },
         {
-          imgSrc: '/images/react.svg',
+          imgSrc: '../../../public/images/react.svg',
           label: 'React',
           desc: 'Framework'
         },
         {
-          imgSrc: '/images/tailwindcss.svg',
+          imgSrc: '../../../public/images/tailwindcss.svg',
           label: 'TailwindCSS',
           desc: 'User Interface'
         },
         {
-          imgSrc: '/images/nextjs.svg',
+          imgSrc: '../../../public/images/nextjs.svg',
           label: 'Next',
           desc: 'Framework'
         },
         {
-          imgSrc: '/images/postgresql.svg',
+          imgSrc: '../../../public/images/postgresql.svg',
           label: 'PostgreSQL',
           desc: 'Database'
         },
         {
-          imgSrc: '/images/typescript.svg',
+          imgSrc: '../../../public/images/typescript.svg',
           label: 'Typescript',
           desc: 'Programming Language'
         },
         {
-          imgSrc: '/images/docker.svg',
+          imgSrc: '../../../public/images/docker.svg',
           label: 'Docker',
           desc: 'Containerization'
         },
         {
-          imgSrc: '/images/mysql.svg',
+          imgSrc: '../../../public/images/mysql.svg',
           label: 'MySQL',
           desc: 'Database'
         },
         {
-          imgSrc: '/images/firebase.svg',
+          imgSrc: '../../../public/images/firebase.svg',
           label: 'Firebase',
           desc: 'Front-End Database'
         },
